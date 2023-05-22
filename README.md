@@ -18,6 +18,8 @@ uses [React](https://reactjs.org/).
   />
 </picture>
 
+https://github.com/shiftkey/desktop/releases/tag/release-3.2.1-linux1
+
 ## What is this repository for?
 
 This repository contains specific patches on top of the upstream
